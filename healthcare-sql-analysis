@@ -1,0 +1,12 @@
+healthcare-sql-analysis/
+│
+├── dataset/
+│   └── healthcare_dataset.csv
+│
+├── queries/
+│   └── analysis.sql
+│
+├── screenshots/
+│   └── results.png
+│
+└── README.md
